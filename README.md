@@ -28,6 +28,7 @@ Download Modsem_2020 unzip in home
 Locate AMDiS folder and Create build folder form terminal
 cd /home/happyonu/Modsem_2020/AMDiS/build$ make
 
+
 RUN this : cmake -S cd /home/happyonu/Modsem_2020/AMDiS' (locate amdis in your system ) -B  
 cd home/happyonu/Modsem_2020/modsem_2020/build' (locate build directry in you syatem)
 
