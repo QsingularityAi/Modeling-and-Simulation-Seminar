@@ -10,13 +10,13 @@ As above mention this project requried TU Dresden AMDiS Framework. It can easily
 In linux it is very easy to configation for this project.
 
 
-1 - Install Download  VS Code editer
-2 - Install boost library : sudo apt-get install libboost-all-dev
-3 - Install cmake :- sudo apt-get -y install cmake
-4 - Install SuiteSparse :- sudo apt-get install libsuitesparse-dev
-5 - Install PNG :- sudo apt-get install libpng-dev
-6 - Install gcc 4.9 or g++ 4.9 , might be this available just check it if not you should install.
-7 - Install Git: sudo apt install git.
+1 - Install Download  VS Code editer ##
+2 - Install boost library : sudo apt-get install libboost-all-dev ##
+3 - Install cmake :- sudo apt-get -y install cmake ##
+4 - Install SuiteSparse :- sudo apt-get install libsuitesparse-dev ##
+5 - Install PNG :- sudo apt-get install libpng-dev ##
+6 - Install gcc 4.9 or g++ 4.9 , might be this available just check it if not you should install. ##
+7 - Install Git: sudo apt install git.##
 
 Download Modsem_2020 unzip in home
 Locate AMDiS folder and Create build folder form terminal
