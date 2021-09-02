@@ -4,7 +4,7 @@ Project Discription: This work aims to show that a simple, structured, and effic
 
 Author: ANURAG TRIVEDI, Mohammed Parvez
 
-# Project Configration
+# Project Configuration
 
 As above mention this project requried TU Dresden AMDiS Framework. It can easily setup in MacOS,Linux and Windows(better use Linux Subsystem).
 In linux it is very easy to configation for this project.
